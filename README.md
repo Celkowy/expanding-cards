@@ -1,1 +1,1 @@
-"# expanding-cards" 
+# expanding-cards

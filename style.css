@@ -2,6 +2,7 @@
 
 * {
   box-sizing: border-box;
+  margin: 0;
 }
 
 body {
@@ -9,6 +10,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  width: 100vw;
   overflow: hidden;
   font-family: 'Lato', sans-serif;
   color: white;
@@ -18,6 +20,7 @@ body {
   display: flex;
   width: 90vw;
   height: 85vh;
+  overflow: hidden;
 }
 
 .panel {
